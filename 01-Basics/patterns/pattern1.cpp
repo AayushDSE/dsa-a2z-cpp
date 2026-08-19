@@ -1,7 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//printing same amount of start every line
+/*printing same amount of start every line
+ex. 
+*****
+*****
+*****
+*****
+*/
 void pattern1(int n){
     for(int i=0;i<n;i++){
         for(int j=0;j<n;j++){
